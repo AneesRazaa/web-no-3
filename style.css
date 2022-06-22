@@ -1,0 +1,70 @@
+.section-image{
+    min-height: 100vh;
+    background-position: center;
+    background-size: cover;
+    position: relative;
+    width: 100px;
+}
+.dropdown-menu{
+    font-weight: bold;
+    cursor: pointer;
+    font-family: sans-serif;
+   
+}
+.dropdown-menu:hover{
+    text-decoration: underline orange;
+    transition: 0.5s;
+}
+strong{
+    font-size: x-large;
+    font-family: sans-serif;
+}
+small{
+    font-family: sans-serif;
+}
+.images{
+    position: absolute;
+    width: 200px;
+    border: 1px solid black;
+    
+}
+#img-button{
+    border: 1px solid black;
+    font-family: sans-serif;
+
+}
+#img-button:hover{
+    background-color: black;
+    color: white;
+    transition: 0.4s;
+    font-weight: bold;
+}
+
+#img-but{
+    border: 1px solid orange;
+    font-family: sans-serif;
+    color: orange;
+}
+#img-but:hover{
+
+    transition: 0.4s;
+    background-color: orange;
+    color: white;
+    font-weight: bold;
+}
+small:hover{
+    text-decoration: underline;
+    cursor: pointer;
+    transition: 0.4s;
+}
+i:hover{
+    transition: 0.4s;
+    box-shadow: 2px 3px 10px 3px black;
+    cursor: pointer;
+
+}
+#underline:hover{
+    text-decoration: underline white;
+    transition: 0.5s;
+
+}
